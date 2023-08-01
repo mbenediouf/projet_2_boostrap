@@ -1,0 +1,21 @@
+#hom{
+    height: 100%;
+    background-image:linear-gradient(rgba(32, 29, 29, 0.8),rgba(0,0,0,0),rgba(0,0,0,0.7)), url(../image/home-3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+#carouselExampleFade{
+    width: 50%;
+    margin: auto;
+}
+#hom h1{
+    font-size: 80px;
+}
+/*#id1 a{
+    width: 150px;
+}*/
+.carousel-item img{
+    width: 100%;
+    height: auto;
+}
